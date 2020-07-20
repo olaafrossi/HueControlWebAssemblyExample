@@ -7,7 +7,6 @@ The application is a basic POC with much of the logic and state hardcoded. While
 <p align="center">
 <img src="https://github.com/olaafrossi/HueControlWebAssemblyExample/blob/master/Imgs/HueServer1.PNG"
   alt="UI image"
-  width="680" height="300">
 </p>
 
 * **Uses WebAssembly & Blazor Server** and is cross-platform **linux-windows-docker**.
@@ -40,11 +39,9 @@ The application is a basic POC with much of the logic and state hardcoded. While
 <p align="center">
 <img src="https://github.com/olaafrossi/HueControlWebAssemblyExample/blob/master/Imgs/HueServer5.PNG"
   alt="Choose target type"
-  width="680" height="300">
 </p>
 
 <p align="center">
 <img src="https://github.com/olaafrossi/HueControlWebAssemblyExample/blob/master/Imgs/HueServer6.PNG"
   alt="Setup Name, Subscription, Resource Group, and Hosting Plan"
-  width="680" height="300">
 </p>
