@@ -35,7 +35,6 @@ The application is a basic POC with much of the logic and state hardcoded. While
 <p align="center">
 <img src="https://github.com/olaafrossi/HueControlWebAssemblyExample/blob/master/Imgs/HueServer3.PNG"
   alt="You will need to create a new profile"
-  width="680" height="300">
 </p>
 
 <p align="center">
