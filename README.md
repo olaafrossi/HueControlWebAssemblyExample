@@ -1,8 +1,10 @@
 # HueControlWebAssemblyExample
 
+Build Status: 
+
 ![.NET Core](https://github.com/olaafrossi/HueControlWebAssemblyExample/workflows/.NET%20Core/badge.svg)
 
-HueControlWebAssemblyExample is a web service that allows a user to control Philips Hue lights by providing a SingalR Hub that a locally running client connects to receive cues. 
+HueControlWebAssemblyExample is a web service that allows a user to control Philips Hue lights by providing a SignalR Hub that a locally running client connects to receive cues. 
 
 The application is a basic POC with much of the logic and state hardcoded. While it works over the internet without any firewall or network configuration, it requires that the house with the Hue lights be running the this [WPF/Console Application](https://github.com/olaafrossi/HueControlExample)
 
