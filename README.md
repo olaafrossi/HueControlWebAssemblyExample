@@ -51,7 +51,7 @@ The application is a basic POC with much of the logic and state is hardcoded. Wh
 
 Copy and paste URL for use in the [WPF/Console Application](https://github.com/olaafrossi/HueControlExample)
 
-<p align="lleft">
+<p align="left">
 <img src="https://github.com/olaafrossi/HueControlWebAssemblyExample/blob/master/Imgs/HueServer6.PNG"
   alt="Setup Name, Subscription, Resource Group, and Hosting Plan"
 </p>
