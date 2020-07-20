@@ -35,7 +35,7 @@ The application is a basic POC with much of the logic and state is hardcoded. Wh
 2. First, Restore/Update all NuGet packages. Use the GUI for this, `Project -> Manage NuGet Packages -> Install/Restore`
 3. Now create your publish profile: Click `Build` and select publish `HueControlWebAssemblyExample.Server`
 
-* Picj the service of your choice
+* Pick the service of your choice
 
 <p align="left">
 <img src="https://github.com/olaafrossi/HueControlWebAssemblyExample/blob/master/Imgs/HueServer3.PNG"
