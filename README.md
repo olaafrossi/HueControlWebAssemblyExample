@@ -35,17 +35,23 @@ The application is a basic POC with much of the logic and state hardcoded. While
 2. First, Restore/Update all NuGet packages. Use the GUI for this, `Project -> Manage NuGet Packages -> Install/Restore`
 3. Now create your publish profile: Click `Build` and select publish `HueControlWebAssemblyExample.Server`
 
-<p align="center">
+* Picj the service of your choice
+
+<p align="left">
 <img src="https://github.com/olaafrossi/HueControlWebAssemblyExample/blob/master/Imgs/HueServer3.PNG"
   alt="You will need to create a new profile"
 </p>
 
-<p align="center">
+* If Azure, further pick the type of service note: `only tested on Azure App Service (Windows)`
+
+<p align="left">
 <img src="https://github.com/olaafrossi/HueControlWebAssemblyExample/blob/master/Imgs/HueServer5.PNG"
   alt="Choose target type"
 </p>
 
-<p align="center">
+Copy and paste URL for use in the [WPF/Console Application](https://github.com/olaafrossi/HueControlExample)
+
+<p align="lleft">
 <img src="https://github.com/olaafrossi/HueControlWebAssemblyExample/blob/master/Imgs/HueServer6.PNG"
   alt="Setup Name, Subscription, Resource Group, and Hosting Plan"
 </p>
